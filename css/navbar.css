@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.nav-link{
+	margin-right: 20px;
+	color:#f0f3f7;
+	letter-spacing: 0.5px;
+	transition: 0.8s;
+}
+.navbar-brand{
+	color: #f0e6e6;
+	letter-spacing: 0.5px;
+}
+h2{
+	color: #f3ebeb;
+	letter-spacing: 0.5px;
+	font-family: "Museo Slab";
+}
